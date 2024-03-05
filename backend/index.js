@@ -3,14 +3,7 @@ const app = express();
 const mongoDB = require('./db');
 const cors = require('cors')
 
-app.use(cors(
-    {
-        origin: ["food-delivery-app-frontend-kappa.vercel.app/"],
-        methods:["POST","GET"],
-        credentials: true
-]
-    }
-))
+app.use(cors())
 app.use((req, res, next) => {
     res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000");
     res.header(
