@@ -19,7 +19,7 @@ function App() {
     <Router>
       <div>
         <Routes>
-          <Route exact path="/" element={<Home/>}/>
+          <Route exact path="food-delivery-app-seven-beryl.vercel.app/" element={<Home/>}/>
           <Route exact path="/login" element={<Login/>}/>
           <Route exact path="/createuser" element={<Signup/>}/>
           <Route exact path="/myOrder" element={<MyOrder/>}/>
