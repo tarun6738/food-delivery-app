@@ -5,7 +5,7 @@ const cors = require('cors')
 
 app.use(cors(
     {
-        origin: [""],
+        origin: ["food-delivery-app-frontend-kappa.vercel.app/"],
         methods:["POST","GET"],
         credentials: true
 ]
