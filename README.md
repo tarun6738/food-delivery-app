@@ -8,6 +8,7 @@ This is a Food Delivery app where users can search for their favourite dishes an
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies](#technologies)
+- [Photos](#photos)
 
 ## Installation
 
@@ -40,4 +41,10 @@ Before getting started, make sure you have Node.js and npm installed on your mac
    - Bootstrap, Material UI
    - Node Js
    - Bcrypt JS
+## Photos
+
+   ![Screenshot 2024-06-08 120940](https://github.com/tarun6738/food-delivery-app/assets/118709508/b04391ed-db23-4ee2-a871-b51c436d9c05)
+   ![Screenshot 2024-06-08 121057](https://github.com/tarun6738/food-delivery-app/assets/118709508/d99a4da1-872f-40c8-9c65-5c3542881e88)
+   ![Screenshot 2024-06-08 121135](https://github.com/tarun6738/food-delivery-app/assets/118709508/6f43f2dc-c510-410e-84c6-acb9edab51a5)
+
 
